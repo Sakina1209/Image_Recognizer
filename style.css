@@ -1,0 +1,14 @@
+.colour{
+    color: black;
+}
+.heading{
+    width: 80%;
+}
+body{
+    background-color: lightskyblue;
+}
+#camera{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
